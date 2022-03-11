@@ -34,7 +34,7 @@ NOM:: MASSIP
 
 Prénom:: Romain
 
-Groupe #::
+Groupe #:: 2A
 
 [%interactive]
 - [X] Enseignants
